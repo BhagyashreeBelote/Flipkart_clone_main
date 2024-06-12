@@ -1,23 +1,8 @@
 # Flipkart-Clone
-## STORY
-We all are students of masai school full stack web development course , In masai school when we complete any particular unit so we have to show our knowledge like what we had learn in this unit by creating project so this time management assign us task to create a pixel perfect clone of Flipkart website and after some discussions like how we are going to start our project after these discussions and meeting we are start working on that and completed all the given task in a week and complete our project succesfully and got 1st rank in construct week presentation.
+Welcome to the Flipkart Clone project, a comprehensive e-commerce platform built using the HTML CSS JS. 
+This project is designed to emulate the robust functionality of Flipkart,
+one of the leading e-commerce platforms in India.
 
-## TEAM
-
-- **ABHIJEET SAGAR**  [LINKEDIN](https://www.linkedin.com/in/bkabhi/) [GITHUB](https://github.com/bkabhi)
-- **GAURAV AGARWAL**  [LINKEDIN](https://www.linkedin.com/in/gaurav-agarwal-aa51661ba/) [GITHUB](https://github.com/gauravv8090)
-
-- **SUKANTA GHOSH** [LINKEDIN](https://www.linkedin.com/in/sukanta-ghosh-b0b696231/) [GITHUB](https://github.com/Sukantad)
-
-- **VIKAS YADAV** [LINKEDIN](https://www.linkedin.com/in/vikas-yadav-98046719a/) [GITHUB](https://github.com/Hustle123)
-
-- **RAJ GUPTA**  [LINKEDIN](https://www.linkedin.com/in/raj-gupta-21081a21a/) [GITHUB](https://github.com/Rajgupta7080)
-
-
-# DEPLOYED LINKS
-
-#### NETLIFY :- https://flipkart-clone-project-m.netlify.app/
-#### GITHUB :- https://github.com/Sukantad/Flipkart-Clone
 
 # FUNCTIONALITIES
 - Users can register themselves.
